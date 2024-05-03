@@ -3,9 +3,9 @@ module github.com/Loki-101/firebuild
 go 1.21.9
 
 require (
-	github.com/combust-labs/firebuild-embedded-ca v0.0.2
-	github.com/combust-labs/firebuild-mmds v0.0.12
-	github.com/combust-labs/firebuild-shared v0.0.8
+	github.com/Loki-101/firebuild-embedded-ca v0.0.2
+	github.com/Loki-101/firebuild-mmds v0.0.12
+	github.com/Loki-101/firebuild-shared v0.0.8
 	github.com/containernetworking/cni v0.8.0
 	github.com/coreos/go-iptables v0.5.0
 	github.com/docker/docker v20.10.4+incompatible
