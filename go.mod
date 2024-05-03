@@ -13,7 +13,7 @@ require (
 	github.com/go-git/go-git/v5 v5.2.0
 	github.com/hashicorp/go-hclog v0.15.0
 	github.com/mitchellh/mapstructure v1.4.1
-	github.com/moby/buildkit v0.8.1
+	github.com/moby/buildkit v0.13.2
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.7.0
