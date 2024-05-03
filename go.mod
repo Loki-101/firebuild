@@ -1,6 +1,6 @@
-module github.com/combust-labs/firebuild
+module github.com/Loki-101/firebuild
 
-go 1.16
+go 1.21.9
 
 require (
 	github.com/combust-labs/firebuild-embedded-ca v0.0.2
